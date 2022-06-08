@@ -21,7 +21,7 @@ You can install the development version of heavyRpkg from
 devtools::install_github("timdaoust7/heavyRpkg")
 ```
 
-## Example
+## First Example
 
 This is a basic example which shows you how to solve a common problem:
 
