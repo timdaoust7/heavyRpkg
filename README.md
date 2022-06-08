@@ -7,6 +7,8 @@ Tim D’Aoust
 # heavyRpkg
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/timdaoust7/heavyRpkg/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/timdaoust7/heavyRpkg/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of heavyRpkg is to …
@@ -21,11 +23,7 @@ You can install the development version of heavyRpkg from
 devtools::install_github("timdaoust7/heavyRpkg")
 ```
 
-<<<<<<< HEAD
 ## Example 1
-=======
-## First Example
->>>>>>> fef0ed76700b20967ce2d09600e96cebf1215310
 
 This is a basic example which shows you how to solve a common problem:
 
