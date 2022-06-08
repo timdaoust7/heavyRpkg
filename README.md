@@ -21,7 +21,11 @@ You can install the development version of heavyRpkg from
 devtools::install_github("timdaoust7/heavyRpkg")
 ```
 
+<<<<<<< HEAD
 ## Example 1
+=======
+## First Example
+>>>>>>> fef0ed76700b20967ce2d09600e96cebf1215310
 
 This is a basic example which shows you how to solve a common problem:
 

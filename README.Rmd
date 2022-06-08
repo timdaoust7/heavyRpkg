@@ -31,7 +31,7 @@ You can install the development version of heavyRpkg from [GitHub](https://githu
 devtools::install_github("timdaoust7/heavyRpkg")
 ```
 
-## Example
+## Example 1
 
 This is a basic example which shows you how to solve a common problem:
 
